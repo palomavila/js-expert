@@ -1,21 +1,23 @@
-# Projeto JS Expert Week
+# Semana JavaScript Expert 2020
 
+## 👩🏽‍💻Sobre:
+Este é um Projeto base da Semana JavaScript Expert realizada de 28 a 30 de outubro de 2020 pelo Erick Wendel.
 - Acesse o [index](./public/index/index.html) para visualizar o catálogo.
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar a base do projeto.
 
-## 👩🏽‍💻Catálogo Netflix:
+## 👩🏽‍💻Screenshot Catálogo Netflix:
 
 ![titulos](./prints/titulos.png)
 
-## 👩🏽‍💻Screenshots:
+## 👩🏽‍💻Screenshots Player:
 
 ![titulos](./prints/demo.png)
 
-## 👩🏽‍💻Projeto baseado:
+## 👩🏽‍💻Projeto:
 
-- No Layout da lista de [Carlos Avila
-](https://codepen.io/cb2307/pen/XYxyeY)
-- No Layout do vídeo de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
+Este projeto possui algumas referências e 
+- Layout da lista de [Carlos Avila](https://codepen.io/cb2307/pen/XYxyeY)
+- Layout do vídeo de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
 
 ## 👩🏽‍💻Licença
 
