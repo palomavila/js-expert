@@ -1,4 +1,4 @@
-# Projeto base da JS Expert Week
+# Projeto JS Expert Week
 
 - Acesse o [index](./public/index/index.html) para visualizar o catálogo.
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar a base do projeto.
@@ -11,8 +11,8 @@
 
 ![titulos](./prints/demo.png)
 
-### 👩🏽‍💻Projeto baseado em:
+### 👩🏽‍💻Projeto baseado:
 
-- Layout da lista foi baseada no  codepen do [Carlos Avila
+- No Layout da lista de[Carlos Avila
 ](https://codepen.io/cb2307/pen/XYxyeY)
-- Layout do video foi baseado no codepen do [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
+- No Layout do vídeo de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
