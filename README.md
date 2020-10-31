@@ -1,4 +1,3 @@
-<div align="center">
 # Projeto JS Expert Week
 
 - Acesse o [index](./public/index/index.html) para visualizar o catálogo.
