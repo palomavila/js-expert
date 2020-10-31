@@ -1,7 +1,7 @@
 # Semana JavaScript Expert 2020
 
 ## 👩🏽‍💻Sobre:
-Este é um Projeto base da Semana JavaScript Expert realizada de 28 a 30 de outubro de 2020 pelo Erick Wendel.
+Este é um Projeto base da Semana JavaScript Expert realizada de 26 a 30 de outubro de 2020 pelo Erick Wendel.
 - Acesse o [index](./public/index/index.html) para visualizar o catálogo da Netflix.
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar a base do projeto.
 
