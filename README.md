@@ -16,9 +16,9 @@ Este é um Projeto base da Semana JavaScript Expert realizada de 28 a 30 de outu
 ## 👩🏽‍💻Projeto:
 
 Este projeto possui algumas referências as quais irei citar abaixo:
-- Criador da Semana Js Expert [Erick Wendel](https://github.com/erickwendel)
-- Layout da lista de [Carlos Avila](https://codepen.io/cb2307/pen/XYxyeY)
-- Layout do vídeo de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
+- Criador da Semana Js Expert [Erick Wendel](https://github.com/erickwendel).
+- Layout da lista de [Carlos Avila](https://codepen.io/cb2307/pen/XYxyeY).
+- Layout do player de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN).
 
 ## 👩🏽‍💻Licença:
 
