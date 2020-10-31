@@ -1,3 +1,4 @@
+<div align="center">
 # Projeto JS Expert Week
 
 - Acesse o [index](./public/index/index.html) para visualizar o catálogo.
@@ -19,8 +20,8 @@
 
 ## 👩🏽‍💻Licença
 
-- Para verificar o documento [Clique Aqui].(https://github.com/palomavila/js-expert/blob/main/LICENSE)
+<li><a href="https://github.com/palomavila/js-expert">Clique Aqui</a></li>
 
 
-<p align="center">Made by Paloma ➰</p>
+Made by Paloma ➰</p>
 
