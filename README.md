@@ -13,6 +13,13 @@
 
 ### 👩🏽‍💻Projeto baseado:
 
-- No Layout da lista de[Carlos Avila
+- No Layout da lista de [Carlos Avila
 ](https://codepen.io/cb2307/pen/XYxyeY)
 - No Layout do vídeo de [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
+
+## 👩🏽‍💻License
+
+ <li><a href=https://github.com/palomavila/js-expert/blob/main/LICENSE">Click here</a></li>
+
+<p align="center">Made by Paloma ➰</p>
+
