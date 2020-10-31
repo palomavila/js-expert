@@ -19,7 +19,7 @@
 
 ## 👩🏽‍💻Licença
 
-<li><a href="https://github.com/palomavila/js-expert">Clique Aqui</a></li>
+<li><a href="https://github.com/palomavila/js-expert/blob/main/LICENSE">Clique Aqui</a></li>
 
 <div align="center">
 Made by Paloma ➰</p>
