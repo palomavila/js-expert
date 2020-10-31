@@ -9,7 +9,7 @@ Este é um Projeto base da Semana JavaScript Expert realizada de 28 a 30 de outu
 
 ![titulos](./prints/titulos.png)
 
-## 👩🏽‍💻Screenshots Player:
+## 👩🏽‍💻Screenshot Player:
 
 ![titulos](./prints/demo.png)
 
